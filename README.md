@@ -65,7 +65,7 @@ ablespace-fullstack-assessment/
 │   └── src/
 │       ├── auth/
 │       └── tasks/
-├── part-2/
+├── Part-2/
 ├── README.md
 ├── ASSESSMENT_CHECKLIST.md
 ├── .env.example
@@ -136,7 +136,7 @@ The NestJS backend uses `ValidationPipe`, DTO validation, HTTP exceptions and CO
 
 ## Part 2
 
-`part-2/README.md` is intentionally a placeholder. Part 2 requires manually exploring the actual AbleSpace Caseload → Take Data screen and submitting screenshots or a walkthrough plus UX/UI observations. No product behavior or screenshots have been fabricated.
+`Part-2/README.md` is intentionally a placeholder. Part 2 requires manually exploring the actual AbleSpace Caseload → Take Data screen and submitting screenshots or a walkthrough plus UX/UI observations. No product behavior or screenshots have been fabricated.
 
 ## Figma Deviations
 
