@@ -20,6 +20,17 @@ SQLite
 
 There is **no Supabase dependency or fallback**. All task and guest-login operations go through the NestJS backend.
 
+## Live Demo
+
+- **Live Application:** https://ablespace-fullstack-assessment.vercel.app/
+- **GitHub Repository:** https://github.com/Mamatha-05/ablespace-fullstack-assessment
+- **Backend API:** https://ablespace-backend-gt7r.onrender.com
+
+### Deployment
+
+- **Frontend:** Vercel
+- **Backend:** Render
+
 ## Features
 
 - Guest login through `POST /auth/guest`
